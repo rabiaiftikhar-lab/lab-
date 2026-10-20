@@ -1,1 +1,51 @@
-# lab-
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Photography Website</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Photography World</h1>
+
+    <h2>About Me</h2>
+
+    <p>My name is Rabia.</p>
+
+    <p>I love capturing beautiful moments and memories.</p>
+
+    <p>My interests include nature, landscapes and portrait photography.</p>
+
+    <h2>My Favourite Photography Styles</h2>
+
+    <p>Nature Photography - Capturing the beauty of nature.</p>
+
+    <p>Landscape Photography - Exploring mountains, beaches and forests.</p>
+
+    <p>Portrait Photography - Capturing emotions and expressions.</p>
+
+    <h2>Photography Tips</h2>
+
+    <p>Always use natural light for beautiful photographs.</p>
+
+    <p>Focus on details and capture special moments.</p>
+
+    <h2>Explore Photography</h2>
+
+    <p>
+        Visit my favourite photography website:
+        <a href="https://unsplash.com/">Unsplash</a>
+    </p>
+
+    <p>
+        Learn photography:
+        <a href="https://www.adobe.com/creativecloud/photography/discover.html">Photography Tips</a>
+    </p>
+
+    <h2>Thank You for Visiting!</h2>
+
+    <p>Keep capturing beautiful moments and creating memories.</p>
+
+</body>
+</html>
